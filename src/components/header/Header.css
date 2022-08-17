@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7c5b70;
+  text-transform: uppercase;
+  font-size: calc(1.5vmin + 8px);
+  font-weight: 900;
+  letter-spacing: 3px;
+  color: #fef6e4;
+  text-shadow: 4px 4px 2px #b56f63;
+  border-bottom: 1px solid #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
