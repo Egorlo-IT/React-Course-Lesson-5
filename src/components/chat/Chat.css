@@ -1,0 +1,30 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  justify-content: flex-start;
+  font-size: 15px;
+}
+
+
+.list-chat {
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-inner-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  margin-top: 50px;
+  color: #7c5b70;
+}
+
+.icon-home {
+  font-size: 45px !important;
+  color: #7c5b70;
+  cursor: pointer;
+  margin-bottom: 50px;
+}
